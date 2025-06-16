@@ -1,0 +1,1 @@
+ns-eval --load-config output/nerfstudio_data_train_val_split/splatfacto/2025-06-16_204337/config.yml

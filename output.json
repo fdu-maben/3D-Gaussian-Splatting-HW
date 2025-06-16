@@ -1,0 +1,17 @@
+{
+  "experiment_name": "nerfstudio_data_train_val_split",
+  "method_name": "splatfacto",
+  "checkpoint": "output/nerfstudio_data_train_val_split/splatfacto/2025-06-16_204337/nerfstudio_models/step-000029999.ckpt",
+  "results": {
+    "psnr": 27.4305477142334,
+    "psnr_std": 1.2528284788131714,
+    "ssim": 0.9115773439407349,
+    "ssim_std": 0.01488060038536787,
+    "lpips": 0.061080336570739746,
+    "lpips_std": 0.010140825994312763,
+    "num_rays_per_sec": 61837432.0,
+    "num_rays_per_sec_std": 13160120.0,
+    "fps": 119.63109588623047,
+    "fps_std": 25.459653854370117
+  }
+}
