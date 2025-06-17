@@ -4,12 +4,11 @@
 
 ### Step 1: Download and Decompress Datasets
 
-Execute the following commands to download datasets:
+Download datasets:
 
-```bash
-wget https://drive.google.com/file/d/1Wyn5hDMCEbPOgfLVKJFTK-QrV06K395b/view?usp=drive_link
-wget https://drive.google.com/file/d/1Wyn5hDMCEbPOgfLVKJFTK-QrV06K395b/view?usp=sharing
-```
+[Images](https://drive.google.com/file/d/1Wyn5hDMCEbPOgfLVKJFTK-QrV06K395b/view?usp=drive_link)
+
+[Camera Parameters](https://drive.google.com/file/d/1Wyn5hDMCEbPOgfLVKJFTK-QrV06K395b/view?usp=sharing)
 
 After downloading, decompress the datasets as needed.
 
