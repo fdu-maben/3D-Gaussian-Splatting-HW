@@ -26,6 +26,16 @@ output/nerfstudio_data_train_val_split/splatfacto/2025-06-16_204337/nerfstudio_m
 ```
 
 ------
+## Create Virtual Environment
+
+Run the following commands:
+
+```bash
+conda env create -f environment.yaml
+conda activate nerfstudio
+```
+
+------
 
 ## Model Training
 
